@@ -1,9 +1,9 @@
-h1 align="center">Hi 👋, I'm Mohamed Elouardi</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Elouardi</h1>
 <h3 align="center">Full Stack Developer & Cybersecurity Researcher | Crafting Secure, Scalable Solutions</h3>
 
 - 🔭 I’m currently working on [ResumeAI](#)
 
-- 📫 How to reach me **medelouardisec@gmail.com**
+- 📫 How to reach me **contactmedelouardi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
