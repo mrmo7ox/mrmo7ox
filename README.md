@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elouardi</h1>
 <h3 align="center">Full Stack Developer & Cybersecurity Researcher | Crafting Secure, Scalable Solutions</h3>
 
-- 🔭 I’m currently working on [ResumeAI](#)
+- 🔭 I’m currently working on [minishell](https://github.com/mrmo7ox/minishell)
 
 - 📫 How to reach me **contactmedelouardi@gmail.com**
 
