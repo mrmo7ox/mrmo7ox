@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [minishell](https://github.com/mrmo7ox/minishell)
 
-- 📫 How to reach me **contactmedelouardi@gmail.com**
+- 📫 How to reach me **moel-oua@student.1337.ma**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
