@@ -21,7 +21,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="/">
     <img src="https://skillicons.dev/icons?i=linux,git,docker,c,css,tailwind,html,js,py,django,sass,selenium,electron" />
   </a>
 </p>
