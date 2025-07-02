@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer & Cybersecurity Researcher | Crafting Secure, Scalable Solutions</h3>
 <p>Passionate about crafting secure, scalable full-stack applications and exploring the latest in cybersecurity. Let’s innovate together!</p>
 
-- 🔭 I’m currently working on [**minishell**](https://github.com/mrmo7ox/minishell)  
+- 🔭 I’m currently working on [**cub3d**](https://github.com/mrmo7ox/cub3d)  
 - 📫 How to reach me **moel-oua@student.1337.ma**
 
 <h3 align="left">Connect with me:</h3>
